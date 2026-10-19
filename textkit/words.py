@@ -1,4 +1,4 @@
-"""Helpers that work on words in a sentense."""
+"""Helpers that work on words in a sentence."""
 
 
 def word_count(text: str) -> int:
